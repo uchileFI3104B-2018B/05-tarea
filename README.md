@@ -1,2 +1,5 @@
-# 05-tarea
-Tarea nro. 5, entrega 1 Nov. 23:59 hrs
+# Tarea nro. 5
+
+Fecha de entrega: 1 de Noviembre a las 23:59 hrs.
+
+(Enunciado en documento `enunciado.pdf`).
